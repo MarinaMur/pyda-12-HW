@@ -13,5 +13,4 @@ https://pastenow.ru/5edf26c8ddea404e2c98a2ba4a4d7cfd
 https://pastenow.ru/ce4eca757c88791de2f2370bde3c96e3
 
 3. task 3
-
 https://github.com/MarinaMur/pyda-12-HW.git
